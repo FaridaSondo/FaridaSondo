@@ -8,8 +8,7 @@
 
 ## 💼 Data Analytics Projects (R & JavaFX)
 
-🚀 Featured Projects
-📊 Elden Ring Review Sentiment Analysis (R)
+### 📊 Elden Ring Review Sentiment Analysis (R)
 🔗 View Project Repo
 
 Collected and analyzed player reviews of Elden Ring to extract key insights
@@ -22,7 +21,7 @@ Visualized sentiment trends, common keywords, and review polarity
 
 Tools: R, tidytext, dplyr, ggplot2, wordcloud, RMarkdown
 
-### 💍 Marriage Data Analysis (R)
+#### 💍 Marriage Data Analysis (R)
 🔗 View Project Repo
 
 Analyzed Kaggle marriage survey data to discover predictors of successful marriage
@@ -33,7 +32,7 @@ Created impactful visuals using ggplot2, delivered insights via RMarkdown report
 
 Tools: R, dplyr, ggplot2, RMarkdown
 
-#### 📚 JavaFX Library Management App
+##### 📚 JavaFX Library Management App
 🔗 View Project Repo
 
 Built a JavaFX desktop app to manage and organize library book records
